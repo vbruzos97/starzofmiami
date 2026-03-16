@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://vbruzos97.github.io/starzofmiami/index.html</loc>
-        <lastmod>2026-03-02T13:38:06+00:00</lastmod>
+        <loc>https://starzofmiami.com/index.html</loc>
+        <lastmod>2026-03-16T12:00:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://vbruzos97.github.io/starzofmiami/news.html</loc>
-        <lastmod>2026-03-02T13:38:06+00:00</lastmod>
+        <loc>https://starzofmiami.com/news.html</loc>
+        <lastmod>2026-03-16T12:00:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://vbruzos97.github.io/starzofmiami/spotlights.html</loc>
-        <lastmod>2026-03-02T13:38:06+00:00</lastmod>
+        <loc>https://starzofmiami.com/spotlights.html</loc>
+        <lastmod>2026-03-16T12:00:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://vbruzos97.github.io/starzofmiami/about.html</loc>
-        <lastmod>2026-03-02T13:38:06+00:00</lastmod>
+        <loc>https://starzofmiami.com/about.html</loc>
+        <lastmod>2026-03-16T12:00:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://vbruzos97.github.io/starzofmiami/community.html</loc>
-        <lastmod>2026-03-02T13:38:06+00:00</lastmod>
+        <loc>https://starzofmiami.com/community.html</loc>
+        <lastmod>2026-03-16T12:00:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://starzofmiami.com/privacy.html</loc>
-        <lastmod>2026-03-08T13:17:19+00:00</lastmod>
+        <lastmod>2026-03-16T12:00:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://starzofmiami.com/terms.html</loc>
-        <lastmod>2026-03-08T13:17:19+00:00</lastmod>
+        <lastmod>2026-03-16T12:00:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://starzofmiami.com/disclaimer.html</loc>
-        <lastmod>2026-03-08T13:17:19+00:00</lastmod>
+        <lastmod>2026-03-16T12:00:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://starzofmiami.com/feed.xml</loc>
-        <lastmod>2026-03-11</lastmod>
+        <lastmod>2026-03-16</lastmod>
         <priority>0.8</priority>
     </url>
 </urlset>
