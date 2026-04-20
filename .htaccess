@@ -1,0 +1,15 @@
+# Enable mod_rewrite
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteCond %{HTTP_HOST} ^www\.starzofmiami\.com [NC]
+    RewriteRule ^(.*)$ https://starzofmiami.com/$1 [L,R=301]
+    RewriteCond %{HTTPS} off
+    RewriteRule ^(.*)$ https://starzofmiami.com/$1 [L,R=301]
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^index\.html$ https://starzofmiami.com/ [L,R=301]
+</IfModule>
+<FilesMatch "\.(jpg|jpeg|png|gif|ico|css|js|svg)$">
+    Header set Cache-Control "max-age=31536000, public"
+</FilesMatch>
